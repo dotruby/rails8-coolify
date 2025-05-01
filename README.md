@@ -1,1 +1,1 @@
-# rails8-coolify
+# Rails8 + Coolify
